@@ -1,16 +1,22 @@
 class Solution:
     def minimumOperationsToMakeKPeriodic(self, word: str, k: int) -> int:
-        n = len(word)
-        divisors = [e for e in range(0, n, k)]
-        count_substring = {}
-        for i in divisors:
-            count_substring[word[i:i+k]] = count_substring.get(word[i:i+k], 0) + 1
-        print(count_substring)
+        # n = len(word)
+        # divisors = [e for e in range(0, n, k)]
+        # count_substring = {}
+        # for i in divisors:
+        #     count_substring[word[i:i+k]] = count_substring.get(word[i:i+k], 0) + 1
+        # print(count_substring)
 
-        max_substring = [k for k,v in count_substring.items() if v==max(count_substring.values())][0]
-        rest_substring_count = sum([v for k,v in count_substring.items() if k!=max_substring])
+        # max_substring = [k for k,v in count_substring.items() if v==max(count_substring.values())][0]
+        # rest_substring_count = sum([v for k,v in count_substring.items() if k!=max_substring])
 
-        return rest_substring_count
+        # return rest_substring_count
+
+        count_substring = collections.Counter([word[i:i+k] for i in range(0, len(word), k)])
+
+        return len(word)//k - max(count_substring.values())
+
+
 
 
 
