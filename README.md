@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Counting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/syalal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syalal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syalal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/syalal/leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
