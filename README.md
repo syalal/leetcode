@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/syalal/leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/syalal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syalal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syalal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/syalal/leetcode/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
