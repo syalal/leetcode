@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/syalal/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Design
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Counting
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/syalal/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
