@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/syalal/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Database
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syalal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syalal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/syalal/leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/syalal/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/syalal/leetcode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
