@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/syalal/leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/syalal/leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/syalal/leetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/syalal/leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/syalal/leetcode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/syalal/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
