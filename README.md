@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/syalal/leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/syalal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/syalal/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0567-permutation-in-string](https://github.com/syalal/leetcode/tree/master/0567-permutation-in-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/syalal/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/syalal/leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/syalal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syalal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
